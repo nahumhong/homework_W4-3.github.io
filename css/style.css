@@ -1,0 +1,142 @@
+/*navigation*/
+.navbar
+{
+    padding:20px;
+}
+.navbar-brand
+{
+    padding-left: 50px;
+    padding-right: 20px;
+}
+.nav-item
+{
+    padding-left:15px;
+    padding-right:15px;
+}
+
+.tryitfree
+{
+    position:absolute;
+    top:-150px;
+    left:-100px;
+}
+.tryitfree :hover {
+	opacity: 0.5;
+}
+
+/*about and learn more*/
+.about {
+	padding-top:100px;
+    padding-bottom:30px;
+}
+
+.word1
+{
+    padding-top:30px;
+    padding-bottom:100px;
+}
+.withrender{
+	font-size:30px;
+	font-weight: 100;
+}
+
+.withrender_line {
+	border-color:#000000;
+
+    width: 30%; 
+    margin-left:35% !important; 
+    margin-right:35% !important;
+}
+.button
+{
+    padding:20px;
+}
+
+.button:hover {
+	opacity: 0.5;
+}
+
+/*join the community*/
+.product {
+	background-color: #ffffff;
+	padding-top: 30px;
+    padding-bottom:150px;
+}
+
+.product img {
+	width:100%;
+	margin-bottom:10px;
+}
+
+.product img:hover {
+	opacity: 0.8;
+}
+.Join_R {
+	padding: 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+/*render the exceiling*/
+.ps {
+	padding-top:100px;
+    padding-right:100px;
+    padding-left:100px;
+    padding-bottom:30px;
+}
+
+.exceiling{
+	font-size: 18px;
+	font-weight: 100px;
+    padding:60px;
+}
+
+.exceiling_line {
+	border-color:#000000;
+    width: 50%; 
+    margin-left:25% !important; 
+    margin-right:25% !important;
+    padding:30px;
+}
+
+/*examples*/
+.examples img
+{
+    padding-bottom: 50px;
+}
+
+.examples img:hover {
+	opacity: 0.8;
+}
+
+/*hit*/
+.ps2 {
+	padding:30px;
+}
+
+.hit{
+	padding-bottom: 100px;
+    font-size: 18px;
+	font-weight: 100px;
+}
+
+.hit_line {
+	border-color:#000000;
+}
+
+.mediaicon
+{
+    padding-top: 100px;
+}
+.privacy {
+    font-size: 30px;
+    background-color: #ffffff;
+    padding-top:20px;
+    padding-bottom:60px; 
+}
+
+.footer {
+    font-size: 15px;
+    background-color: #ffffff;
+    padding:20px; 
+}
